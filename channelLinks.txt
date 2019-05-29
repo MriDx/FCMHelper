@@ -40,18 +40,18 @@
     "logo" : "http://noobdevs.tk/assets/image/pubcash_logo.png"
   },
   {
-    "name" : "Rang",
-    "link" : "http://cshms1.airtel.tv/PLTV/88888888/224/3221226106/02.m3u8",
+    "name" : "Ramdhenu",
+    "link" : "http://mhms9.airtel.tv/PLTV/88888888/224/3221226358/02.m3u8",
     "logo" : "http://noobdevs.tk/assets/image/pubcash_logo.png"
   },
   {
-    "name" : "Rang",
-    "link" : "http://cshms1.airtel.tv/PLTV/88888888/224/3221226106/02.m3u8",
+    "name" : "North-East Live",
+    "link" : "http://cshms3.airtel.tv/PLTV/88888888/224/3221226474/02.m3u8",
     "logo" : "http://noobdevs.tk/assets/image/pubcash_logo.png"
   },
   {
-    "name" : "Rang",
-    "link" : "http://cshms1.airtel.tv/PLTV/88888888/224/3221226106/02.m3u8",
+    "name" : "DD North East",
+    "link" : "http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226300/03.m3u8",
     "logo" : "http://noobdevs.tk/assets/image/pubcash_logo.png"
   },
   {
