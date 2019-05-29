@@ -26,7 +26,7 @@
   },
   {
     "name" : "News18 Assam",
-    "link" : "https://www.youtube.com/watch?v=ApzrE6--mks",
+    "link" : "id=ApzrE6--mks",
     "logo" : "http://noobdevs.tk/assets/image/pubcash_logo.png"
   },
   {
