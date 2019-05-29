@@ -30,8 +30,8 @@
     "logo" : "http://noobdevs.tk/assets/image/pubcash_logo.png"
   },
   {
-    "name" : "News18 Assam",
-    "link" : "https://assam_news18_ne-lh.akamaihd.net/i/assam_news18_ne_1@526575/index_5_av-p.m3u8",
+    "name" : "Dy365",
+    "link" : "http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh1.stream_aac/playlist.m3u8",
     "logo" : "http://noobdevs.tk/assets/image/pubcash_logo.png"
   }
   
