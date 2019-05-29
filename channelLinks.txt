@@ -1,7 +1,7 @@
 { "channels" : [
   {
     "name" : "Prag News",
-    "link" : "http://mhms7.airtel.tv/PLTV/88888888/224/3221226110/02.m3u8",
+    "link" : "http://mhms7.airtel.tv/PLTV/88888888/224/3221226110/04.m3u8",
     "logo" : "http://noobdevs.tk/assets/image/pubcash_logo.png"
   },
   {
@@ -36,17 +36,17 @@
   },
   {
     "name" : "Rengani TV",
-    "link" : "http://mhms6.airtel.tv/PLTV/88888888/224/3221226364/02.m3u8",
+    "link" : "http://mhms6.airtel.tv/PLTV/88888888/224/3221226364/04.m3u8",
     "logo" : "http://noobdevs.tk/assets/image/pubcash_logo.png"
   },
   {
     "name" : "Ramdhenu",
-    "link" : "http://mhms9.airtel.tv/PLTV/88888888/224/3221226358/02.m3u8",
+    "link" : "http://mhms9.airtel.tv/PLTV/88888888/224/3221226358/04.m3u8",
     "logo" : "http://noobdevs.tk/assets/image/pubcash_logo.png"
   },
   {
     "name" : "North-East Live",
-    "link" : "http://cshms3.airtel.tv/PLTV/88888888/224/3221226474/02.m3u8",
+    "link" : "http://cshms3.airtel.tv/PLTV/88888888/224/3221226474/03.m3u8",
     "logo" : "http://noobdevs.tk/assets/image/pubcash_logo.png"
   },
   {
