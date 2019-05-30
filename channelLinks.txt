@@ -16,7 +16,7 @@
   },
   {
     "name" : "News Live",
-    "link" : "https://5b6dabf6ac685.streamlock.net/wrap/newslive/playlist07.m3u8",
+    "link" : "https://5b6dabf6ac685.streamlock.net/wrap/newslive/playlist.m3u8",
     "logo" : "https://mridx.github.io/FCMHelper/assets/logos/channelLogos/newslive.png"
   },
   {
