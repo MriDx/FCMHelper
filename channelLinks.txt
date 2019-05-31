@@ -1,9 +1,3 @@
-[
-{ "needsUpdate" : 
-  {
-    "new" : "1.1"
-  }
-},
 { "channels" : [
   {
     "name" : "Prag News",
@@ -70,4 +64,3 @@
   
   
 ]}
-]
