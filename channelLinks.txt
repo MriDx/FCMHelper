@@ -1,3 +1,9 @@
+{ "needsUpdate" : 
+  {
+    "new" : "1.0"
+  }
+},
+  
 { "channels" : [
   {
     "name" : "Prag News",
