@@ -2,9 +2,8 @@
   {
     "new" : "1.1"
   }
-}
   
-{ "channels" : [
+ "channels" : [
   {
     "name" : "Prag News",
     "link" : "http://mhms7.airtel.tv/PLTV/88888888/224/3221226110/04.m3u8",
