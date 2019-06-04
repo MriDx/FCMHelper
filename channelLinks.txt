@@ -30,7 +30,7 @@
   },
   {
     "name" : "News18 Assam",
-    "link" : "id=ApzrE6--mks",
+    "link" : "id=adjDU7a7J9s",
     "logo" : "https://mridx.github.io/FCMHelper/assets/logos/channelLogos/news18.png"
   },
   {
