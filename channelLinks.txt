@@ -2,6 +2,21 @@
 
 "needsUpdate": { "new": "1.0" },
 "channels" : [
+{
+    "name" : "Watch World Cup 2019",
+    "link" : "http://209.126.116.187:1935/trunk3/STARSPORTS1HINDIHD/chunklist_w292241880.m3u8",
+    "logo" : "https://mridx.github.io/FCMHelper/assets/logos/channelLogos/wcfhd.png"
+  },
+  {
+    "name" : "Watch World Cup 2019",
+    "link" : "http://209.126.116.187:1935/trunk3/STARSPORTS1HINDIHD/chunklist_w29224720.m3u8",
+    "logo" : "https://mridx.github.io/FCMHelper/assets/logos/channelLogos/wchd.png"
+  },
+  {
+    "name" : "Watch World Cup 2019",
+    "link" : "http://209.126.116.187:1935/trunk3/STARSPORTS1HINDIHD/chunklist_w29224480.m3u8",
+    "logo" : "https://mridx.github.io/FCMHelper/assets/logos/channelLogos/wcsd.png"
+  },
   {
     "name" : "Prag News",
     "link" : "http://mhms7.airtel.tv/PLTV/88888888/224/3221226110/01.m3u8",
