@@ -52,7 +52,8 @@
   },
   {
     "name" : "North-East Live",
-    "link" : "http://cshms3.airtel.tv/PLTV/88888888/224/3221226474/01.m3u8",
+    "link" : "https://vidcdn.vidgyor.com/northeastlive-origin/live1/chunks.m3u8",
+    "link1" : "http://cshms3.airtel.tv/PLTV/88888888/224/3221226474/01.m3u8",
     "logo" : "https://mridx.github.io/FCMHelper/assets/logos/channelLogos/nelive.png"
   },
   {
