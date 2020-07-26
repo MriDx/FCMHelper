@@ -1,4 +1,4 @@
 {
-"ver":1.0,
-"link":""
+"ver":"1.1",
+"link":"https://firebasestorage.googleapis.com/v0/b/fcmhelper-e18b9.appspot.com/o/fcmh1.0.apk?alt=media"
 }
