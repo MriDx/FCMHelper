@@ -1,5 +1,3 @@
 {
-"pp":"1. hello bal." +
-"\n2. pkr kela"+
-"\n3. maxxai kela"
+"pp":"1. hello jhra. \n2. bal nki kela \n3. dont care kela kai use kra app to"
 }
